@@ -1,6 +1,18 @@
-D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\Negocio\bin\Debug\Negocio.dll
-D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\Negocio\bin\Debug\Negocio.pdb
-D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
-D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
-D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\Negocio\obj\Debug\Negocio.dll
-D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\Negocio\obj\Debug\Negocio.pdb
+D:\utn\cuatri 3\Prog 3\tp-winform-Fernandez-Gomez\tp-winform-Fernandez-Gomez\Negocio\bin\Debug\Negocio.dll
+D:\utn\cuatri 3\Prog 3\tp-winform-Fernandez-Gomez\tp-winform-Fernandez-Gomez\Negocio\bin\Debug\Negocio.pdb
+D:\utn\cuatri 3\Prog 3\tp-winform-Fernandez-Gomez\tp-winform-Fernandez-Gomez\Negocio\bin\Debug\Dominio.dll
+D:\utn\cuatri 3\Prog 3\tp-winform-Fernandez-Gomez\tp-winform-Fernandez-Gomez\Negocio\bin\Debug\Dominio.pdb
+D:\utn\cuatri 3\Prog 3\tp-winform-Fernandez-Gomez\tp-winform-Fernandez-Gomez\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\utn\cuatri 3\Prog 3\tp-winform-Fernandez-Gomez\tp-winform-Fernandez-Gomez\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\utn\cuatri 3\Prog 3\tp-winform-Fernandez-Gomez\tp-winform-Fernandez-Gomez\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\utn\cuatri 3\Prog 3\tp-winform-Fernandez-Gomez\tp-winform-Fernandez-Gomez\Negocio\obj\Debug\Negocio.dll
+D:\utn\cuatri 3\Prog 3\tp-winform-Fernandez-Gomez\tp-winform-Fernandez-Gomez\Negocio\obj\Debug\Negocio.pdb
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\CarritoWeb\TPWinForm_Fernandez-Gomez\Negocio\bin\Debug\Negocio.dll
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\CarritoWeb\TPWinForm_Fernandez-Gomez\Negocio\bin\Debug\Negocio.pdb
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\CarritoWeb\TPWinForm_Fernandez-Gomez\Negocio\bin\Debug\Dominio.dll
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\CarritoWeb\TPWinForm_Fernandez-Gomez\Negocio\bin\Debug\Dominio.pdb
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\CarritoWeb\TPWinForm_Fernandez-Gomez\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\CarritoWeb\TPWinForm_Fernandez-Gomez\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\CarritoWeb\TPWinForm_Fernandez-Gomez\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\CarritoWeb\TPWinForm_Fernandez-Gomez\Negocio\obj\Debug\Negocio.dll
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\CarritoWeb\TPWinForm_Fernandez-Gomez\Negocio\obj\Debug\Negocio.pdb
