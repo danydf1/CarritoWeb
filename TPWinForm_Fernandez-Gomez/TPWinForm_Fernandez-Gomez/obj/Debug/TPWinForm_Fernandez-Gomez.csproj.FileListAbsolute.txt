@@ -1,0 +1,9 @@
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\TPWinForm_Fernandez-Gomez\bin\Debug\TPWinForm_Fernandez-Gomez.exe.config
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\TPWinForm_Fernandez-Gomez\bin\Debug\TPWinForm_Fernandez-Gomez.exe
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\TPWinForm_Fernandez-Gomez\bin\Debug\TPWinForm_Fernandez-Gomez.pdb
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\TPWinForm_Fernandez-Gomez\obj\Debug\TPWinForm_Fernandez-Gomez.csprojAssemblyReference.cache
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\TPWinForm_Fernandez-Gomez\obj\Debug\TPWinForm_Fernandez_Gomez.Properties.Resources.resources
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\TPWinForm_Fernandez-Gomez\obj\Debug\TPWinForm_Fernandez-Gomez.csproj.GenerateResource.cache
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\TPWinForm_Fernandez-Gomez\obj\Debug\TPWinForm_Fernandez-Gomez.csproj.CoreCompileInputs.cache
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\TPWinForm_Fernandez-Gomez\obj\Debug\TPWinForm_Fernandez-Gomez.exe
+D:\utn\cuatri 3\re-Prog3\tp_Catalogo\TPWinForm_Fernandez-Gomez\TPWinForm_Fernandez-Gomez\obj\Debug\TPWinForm_Fernandez-Gomez.pdb
