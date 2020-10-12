@@ -17,7 +17,7 @@ namespace Negocio
             SqlDataReader Lector;
             List<Marca> Lista = new List<Marca>();
 
-            conexion.ConnectionString = "data source=DESKTOP-09K26PO\\SQLEXPRESS; initial catalog = CATALOGO_DB; integrated security = sspi";
+            conexion.ConnectionString = "data source=.\\SQLEXPRESS; initial catalog = CATALOGO_DB; integrated security = sspi";
             comando.CommandType = System.Data.CommandType.Text;
             comando.CommandText = "select Id,Descripcion from MARCAS";
             comando.Connection = conexion;

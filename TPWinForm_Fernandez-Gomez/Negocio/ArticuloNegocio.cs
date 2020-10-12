@@ -20,7 +20,7 @@ namespace Negocio
             SqlDataReader Lector;
             List<Articulo> Lista = new List<Articulo>();
 
-            conexion.ConnectionString = "data source=DESKTOP-09K26PO\\SQLEXPRESS; initial catalog = CATALOGO_DB; integrated security = sspi";
+            conexion.ConnectionString = "data source=.\\SQLEXPRESS; initial catalog = CATALOGO_DB; integrated security = sspi";
             comando.CommandType = System.Data.CommandType.Text;
             comando.CommandText = "Select  A.Id,A.Codigo,A.Nombre,A.Descripcion,A.ImagenUrl,A.Precio,M.Descripcion Marca,M.Id IDMarca, C.Descripcion Categoria,C.Id IDCategoria " +
                                    "From ARTICULOS A, MARCAS M, CATEGORIAS C where A.IdMarca = M.Id and A.IdCategoria = C.Id";
